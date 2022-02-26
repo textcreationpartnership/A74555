@@ -1,0 +1,223 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An ordinance for the better maintenance and encouragement of preaching ministers, and for uniting of parishes.</title>
+            <title>Orders in Council. 1654-09-02.</title>
+            <author>England and Wales. Lord Protector (1653-1658 : O. Cromwell)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1654</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A74555</idno>
+            <idno type="STC">Thomason E1064_35</idno>
+            <idno type="STC">ESTC R210353</idno>
+            <idno type="EEBO-CITATION">99869161</idno>
+            <idno type="PROQUEST">99869161</idno>
+            <idno type="VID">169235</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A74555)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 169235)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 159:E1064[35])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An ordinance for the better maintenance and encouragement of preaching ministers, and for uniting of parishes.</title>
+                  <title>Orders in Council. 1654-09-02.</title>
+                  <author>England and Wales. Lord Protector (1653-1658 : O. Cromwell)</author>
+                  <author>England and Wales. Council of State. aut</author>
+               </titleStmt>
+               <extent>[2], 641-654 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by William du-Gard and Henry Hills, printers to His Highness the Lord Protector,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1654.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The final leaf bears an order to print.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Preaching --  England --  17th century --  Early works to 1800.</term>
+               <term>Clergy --  Appointment, call, and election --  Great Britain --  17th century --  Early works to 1800.</term>
+               <term>Great Britain --  Church history --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-09</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-11</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-11</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:169235:1" rendition="simple:additions"/>
+            <p>AN ORDINANCE For the better Maintenance and Encou<g ref="char:EOLhyphen"/>ragement of Preaching Miniſters, And for uniting of PARISHES.</p>
+            <figure>
+               <figDesc>seal of the Commonwealth</figDesc>
+            </figure>
+            <floatingText type="license" xml:lang="eng">
+               <body>
+                  <opener>
+                     <dateline>
+                        <date>
+                           <hi>Saturday September 2. 1654.</hi>
+                        </date>
+                     </dateline>
+                  </opener>
+                  <p>ORdered by his Highneſs the Lord Protector, and His Council, That this Ordinance be forthwith Printed and Publiſhed.</p>
+                  <closer>
+                     <signed>
+                        <hi>Henry Scobell,</hi> Clerk of the Council.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>
+               <hi>London,</hi> Printed by <hi>William du-Gard</hi> and <hi>Henry Hills,</hi> Printers to His Highneſs the Lord Protector, 1654.</p>
+         </div>
+      </front>
+      <body>
+         <div type="ordinance">
+            <pb facs="tcp:169235:2"/>
+            <pb n="641" facs="tcp:169235:2"/>
+            <head>
+               <figure>
+                  <figDesc>seal of the Commonwealth</figDesc>
+               </figure>
+AN ORDINANCE For the better maintenance and encourage<g ref="char:EOLhyphen"/>ment of Preaching Miniſters, and for Uniting of PARISHES.</head>
+            <p>
+               <seg rend="decorInit">W</seg>heras many Pariſhes in this nation are without y<hi rend="sup">e</hi> conſtant &amp; powerful preaching of y<hi rend="sup">e</hi> Goſpel, through want of competent maintenance and en<g ref="char:EOLhyphen"/>couragement unto able and godly Mi<g ref="char:EOLhyphen"/>niſters in ſuch pla<g ref="char:EOLhyphen"/>ces: Some Pariſhes in regard of their ſmal<g ref="char:EOLhyphen"/>neſs, and of their propinquity and neighbor<g ref="char:EOLhyphen"/>hood
+<pb n="642" facs="tcp:169235:3"/>
+hood, and the ſituation of their Churches or places of meeting being very convenient to be united; and other Pariſhes are ſo populous and of ſo great an extent, that all the Inha<g ref="char:EOLhyphen"/>bitants thereof cannot with conveniency re<g ref="char:EOLhyphen"/>ſort to their reſpective Pariſh Churches; To the end ſome proviſion may be made herein, and the publique maintenance ſet apart for Miniſters, and other pious uſes, may be ma<g ref="char:EOLhyphen"/>naged, improved, and diſtributed for the fu<g ref="char:EOLhyphen"/>ture, ſo as may be moſt for the advancement of the Goſpel and encouragement of Pub<g ref="char:EOLhyphen"/>lique Preachers in all the Places of this Common-wealth: And that the Augmen<g ref="char:EOLhyphen"/>tations granted, or which ſhall be granted out of the ſame, may be more orderly iſſued and certainly paid, and the Revenue not over<g ref="char:EOLhyphen"/>charged; And whereas ſome doubts have been made, whether the Rents, Profits and Revenues of all Rectories Impropriate, Ap<g ref="char:EOLhyphen"/>propriate, Tyths, Donatives, Oblations, Obventions, Firſt Fruits, Tenths, Penti<g ref="char:EOLhyphen"/>ons, Portions of Tyths appropriate, and o<g ref="char:EOLhyphen"/>ther things veſted and ſettled in the Truſtees named in one Act of Parlament, Intituled, <hi>An Act for providing maintenance for preaching Mi<g ref="char:EOLhyphen"/>niſters, and other pious uſes;</hi> and in one other Act of Parlament, Entituled, <hi>An Additional Act for providing maintenance for Miniſters, and other pious uſes;</hi> or either of them for the uſes there<g ref="char:EOLhyphen"/>in mentioned, ought not by force of the Or<g ref="char:EOLhyphen"/>dinance, Entituled, <hi>An Ordinance for bringing the publique Revenues of this Common-wealth into one Treaſury,</hi> to be paid into the Receipt of his highneſs Exchequer.</p>
+            <p>
+               <pb n="643" facs="tcp:169235:3"/>
+Be it Ordained and Declared by the Au<g ref="char:EOLhyphen"/>thority aforeſaid, That the ſaid Ordinance, or any thing therein contained, ſhall not ex<g ref="char:EOLhyphen"/>tend, or be conſtrued to extend to any the Rents, Profits, or Revenues by the ſaid Acts or any, or either of them, veſted in the ſaid Truſtees.</p>
+            <p>But it is hereby Ordained by the Authori<g ref="char:EOLhyphen"/>ty aforeſaid, That all and every the Recto<g ref="char:EOLhyphen"/>ries Impropriate, Appropriations, Tythes appropriate, Donatives, Oblations, Obven<g ref="char:EOLhyphen"/>tions, Firſt Fruits, Tenths, Pentions, Portions of Tyths, and other the premiſſes by the ſaid Acts or either of them veſted in the ſaid Truſtees, and not expoſed to ſale by one other Act, Intituled, <hi>An Act for ſale of the Mannors of Rectories and Gleab-lands late belonging to the Arch-Biſhops, Biſhops, Deans, Deans and Chapters,</hi> ſhall from henceforth be veſted and ſettled in the poſſeſſion and ſeiſin of <hi>William Steel</hi> 
+               <abbr>Eſq</abbr> Serjeant at Law, Recorder of the City of <hi>London,</hi> Sir <hi>John Thorowgood</hi> of <hi>Ken<g ref="char:EOLhyphen"/>ſington</hi> Knight, <hi>George Cowper, Richard Young, John Pocock, Ralph Hall, Richard Sydenham, Ed<g ref="char:EOLhyphen"/>ward Hopkins, John Humfry</hi> and <hi>Edward Creſſet,</hi> the Survivor and Survivors of them, and their heirs to the uſes, and upon the Truſts in the ſaid Acts expreſſed, and to ſuch further uſes as are hereafter expreſſed. And that they or any five or more of them ſhall have uſe, exerciſe and enjoy all and every the pow<g ref="char:EOLhyphen"/>ers and authorities by the ſaid Acts or any, or either of them given and committed to the Truſtees in the ſaid two firſt recited Acts na<g ref="char:EOLhyphen"/>med to all intents and purpoſes.</p>
+            <p>
+               <pb n="644" facs="tcp:169235:4"/>
+And that they the ſaid Truſtees, or any five or more of them ſhall, or may by Action, Di<g ref="char:EOLhyphen"/>ſtreſs, Information, or by any other lawful waies, or means whatſoever from time to time, ſue for, recover, receive, collect and gather and cauſe to be received, collected and gathered the Rents, Iſſues and Profits ther<g ref="char:EOLhyphen"/>of, as lawfull and rightfull Owners thereof in truſt as aforeſaid, and mannage the ſaid Revenue in ſuch way and manner as ſhall be moſt conduceable for the carrying on of this ſervice; And ſhall have the ſame, and the like powers for removing ſuch Obſtructions as they ſhall meet with, concerning the ſaid Revenue, that any Commiſſioners have for removing Obſtructions, concerning the ſale of Biſhops, or Dean and Chapters Lands, and to compound for all Corn rent, or other proviſion rent, reſerved upon any Leaſe of a<g ref="char:EOLhyphen"/>ny part of the premiſſes for an yearly rent in money.</p>
+            <p>And whereas ſeveral Delinquents, being ſeized, poſſeſſed, and intereſſed of and in ſeveral Rectories, and portions of Tyths, or Impropriations reſpective<g ref="char:EOLhyphen"/>ly, have had an abatement in their Com<g ref="char:EOLhyphen"/>poſitions in reſpect of them, or in lieu of ſo much of their Compoſition money as amoun<g ref="char:EOLhyphen"/>ted unto the full value thereof, did convey or agree to convey the ſame unto ſeveral Tru<g ref="char:EOLhyphen"/>ſtees for Augmentation of Miniſters mainte<g ref="char:EOLhyphen"/>nance in the Conveyances thereof, mentioned or the ſame are otherwiſe ſettled and diſpoſed
+<pb n="645" facs="tcp:169235:4"/>
+of; which Truſtees do many of them alto<g ref="char:EOLhyphen"/>gether neglect the truſt in them repoſed, and the ſaid Revenue is in no part of it under any certain account.</p>
+            <p>Be it further Ordained, That all Tru<g ref="char:EOLhyphen"/>ſtees that ſtand ſeized or poſſeſſed of any Im<g ref="char:EOLhyphen"/>propriate Rectories, or Tyths, or any eſtate wherewith the ſame ſtand chargeable reſpe<g ref="char:EOLhyphen"/>ctively by virtue of any ſuch conveyance, or<g ref="char:EOLhyphen"/>der or agreement as aforeſaid, be from hence<g ref="char:EOLhyphen"/>forth deveſted of the poſſeſſion, ſeiſin, intereſt and eſtate, which they have in the premiſſes reſpectively by virtue of the ſaid conveyances or any agreement, or order in that behalf, and of all Truſts concerning the ſame. And that the ſaid <hi>William Steel,</hi> and the reſt of the ſaid Truſtees hereby appointed, their heirs, Ex<g ref="char:EOLhyphen"/>ecutors and Aſſigns, ſhall ſtand ſeized, and ſhall have, hold and enjoy the ſaid Tythes, Eſtates and premiſſes ſo reſerved or ſettled or agreed ordered to be ſettled, and all arrears thereof, and all Evidences and Writings concerning the ſame to the ſame uſes; and they are by authority hereof veſted, and poſſeſ<g ref="char:EOLhyphen"/>ſed thereof, and of all arrears thereof upon the ſame truſts as they the ſaid Truſtees had or ought to have the ſame by virtue of the ſaid Conveyances, Orders or Agreements reſpectively, and to ſuch other uſes as are hereafter expreſſed. And that they the ſaid <hi>William Steel,</hi> and the reſt of the aforenamed Truſtees, or any five or more of them, ſhall enquire into and make ſearch for the ſeveral Grants made by the ſaid Delinquents as a<g ref="char:EOLhyphen"/>foreſaid,
+<pb n="646" facs="tcp:169235:5"/>
+and ſettle the ſame, ſo as the Mi<g ref="char:EOLhyphen"/>niſters that ought to receive the benefit and advantage thereof ſhall and may en<g ref="char:EOLhyphen"/>joy the ſame, and all arrears thereof with the leaſt charge. And all perſons imployed a<g ref="char:EOLhyphen"/>bout the contracting for and ſettling of the ſame, or in whoſe hands any of the ſaid wri<g ref="char:EOLhyphen"/>tings, or Conveyances, Counterparts, Or<g ref="char:EOLhyphen"/>ders, or other writings concerning the ſame are, are hereby required upon the requeſt of the ſaid Truſtees under the hands of them, or any three of them, to ſhew and produce as there ſhall be occaſion, or to deliver the ſame to the ſaid Truſtees, or any three or more of them if the ſame be demanded.</p>
+            <p>And the ſaid Truſtees, or any five or more of them, are hereby authorized to ſend into the high Court of Chancery for the returns or for the true Copies of the returns of ſuch Commiſſions as have iſſued under the great Seal by virtue, and in purſuance of the ſaid recited Act of Parlament, Entituled, <hi>An Act for providing maintenance for preaching Mini<g ref="char:EOLhyphen"/>ſters, and other pious uſes.</hi> And the Clerk (in whoſe Cuſtody the ſame returns are) is here<g ref="char:EOLhyphen"/>by directed and required as often as he ſhall be thereunto required by the ſaid Truſtees, to make copies of all returns, and to deliver the ſame to the ſaid Truſtees, or any three or more of them, or the Clerk formerly ap<g ref="char:EOLhyphen"/>pointed by Parlament to the ſaid Truſtees (who is hereby continued Clerk to the Tru<g ref="char:EOLhyphen"/>ſtees hereby appointed) for the ſervice of the ſaid Truſtees.</p>
+            <p>
+               <pb n="647" facs="tcp:169235:5"/>
+And in caſe the ſaid Truſtees by this Act appointed, ſhall find it requiſite by rea<g ref="char:EOLhyphen"/>ſon of any defect or imperfection of any re<g ref="char:EOLhyphen"/>turn of the ſaid Commiſſions and Execu<g ref="char:EOLhyphen"/>tions thereof, or by reaſon of the not exe<g ref="char:EOLhyphen"/>cuting of any former Commiſſion, or in de<g ref="char:EOLhyphen"/>fault of the iſſuing forth of any ſuch Com<g ref="char:EOLhyphen"/>miſſion, That then in every ſuch caſe up<g ref="char:EOLhyphen"/>on their requeſt certified and declared un<g ref="char:EOLhyphen"/>der the hands and Seals of them, or any three of them, to the Lords Commiſſioners for the Great Seal of <hi>England,</hi> wherein they are to certifie the names of ſuch perſons to whom they deſire the ſaid Commiſſion or Commiſſions to be directed, The ſaid Lords Commiſſioners do iſſue forth ſuch New Commiſſion and Commiſſions, according to the former tenor, into ſuch Countries and Places as ſhall be by the ſaid Truſtees ſo requeſted as aforeſaid.</p>
+            <p>And it is hereby further Ordained, That all the Commiſſions from henceforth ſo to be iſſued as aforeſaid, ſhall alſo contain in them a further additional clauſe, and power for the enquiring, touching the yearly value of all Eccleſiaſtical Livings and Benefices without Cure of Souls, and what perſon or perſons do now receive the profits of the ſame, and for whoſe uſe, and who is the Patron there<g ref="char:EOLhyphen"/>of, within the Limits of ſuch Counties or Cities within which they are directed to en<g ref="char:EOLhyphen"/>quire, and to certifie the ſame into the Chan<g ref="char:EOLhyphen"/>cery, and a Duplicate thereof unto the ſaid Truſtees or their Regiſter, for the uſe of the ſaid Truſtees.</p>
+            <p>
+               <pb n="648" facs="tcp:169235:6"/>
+And if upon view and conſideration of any of the ſaid Retorns of the ſaid former Com<g ref="char:EOLhyphen"/>miſſions already iſſued and executed, or of a<g ref="char:EOLhyphen"/>ny the Commiſſions hereafter to be iſſued forth, executed or returned, the ſaid Tru<g ref="char:EOLhyphen"/>ſtees ſhall find it convenient and advantagi<g ref="char:EOLhyphen"/>ous as aforeſaid, to make any Unions of two Pariſhes or more, into one; and the whole Eccleſiaſtical Revenues, Tythes and Pro<g ref="char:EOLhyphen"/>fits belonging to the ſaid Pariſhes ſo uni<g ref="char:EOLhyphen"/>ted, to be ſupplied for a Proviſion for one godly and painfull Miniſter to preach in ſuch of the ſaid Pariſh Churches, where ſuch Union ſhall be made, as they the ſaid Tru<g ref="char:EOLhyphen"/>ſtees ſhall ſo judge moſt convenient as afore<g ref="char:EOLhyphen"/>ſaid: That then the ſaid Truſtees as often as they ſhall ſee cauſe to make any ſuch Uni<g ref="char:EOLhyphen"/>on, ſhall preſent the ſame to His Highneſs and His Council, upon whoſe approvation the ſaid Truſtees, or any five or more of them ſhall declare by ſome Inſtrument in writing under five or more of their Hands and Seals, That they do thereby unite ſuch two or more Pariſhes into one, for the ends aforeſaid, and thereby appoint where the meeting of the Inhabitants of both the ſaid Pariſhes for the Publick worſhip of God ſhall be, and the ſame Inſtrument after being inrolled in the Court of Chancery, from and after ſuch inrollment, the ſaid Pariſhes ſhall ſtand and be conſoli<g ref="char:EOLhyphen"/>dated and united for the purpoſes aforeſaid, and are hereby declared and ſhall be from thenceforth deemed and adjudged, and ta<g ref="char:EOLhyphen"/>ken to be conſolidated and united for the bet<g ref="char:EOLhyphen"/>ter
+<pb n="649" facs="tcp:169235:6"/>
+maintenance of an able and godly Mini<g ref="char:EOLhyphen"/>ſter.</p>
+            <p>And all the ſaid Inhabitants (living with<g ref="char:EOLhyphen"/>in the bounds and precincts of the ſaid uni<g ref="char:EOLhyphen"/>ted Pariſhes) ſhall from and after ſuch inrol<g ref="char:EOLhyphen"/>ment made, pay unto the Miniſter of the ſaid united Pariſhes all their Tyths, Duties and Profits, which were before payable or belong<g ref="char:EOLhyphen"/>ing to the Incumbents or Curats of the ſaid Pariſhes, and every or any of them; And ſhall likewiſe pay their rateable part and proporti<g ref="char:EOLhyphen"/>on. for the repairing and amending of ſuch Church or Publique meeting place within the Precincts of the ſaid Union, and for all other things neceſſary to be had or uſed in or about the ſaid Church or meeting place.</p>
+            <p>And it is hereby further Ordained, That the Church-Wardens ſhall be from time to time choſen for the ſaid Pariſhes ſo united di<g ref="char:EOLhyphen"/>ſtinctly as formerly, which being ſo choſen ſhall all of them be Church Wardens of the ſaid Church, as to the repair and neceſſaries of the ſaid Church, and Duties belonging to the ſame.</p>
+            <p>And be it further Ordained by the Autho<g ref="char:EOLhyphen"/>rity aforeſaid, That where ſuch Union as a<g ref="char:EOLhyphen"/>foreſaid ſhall be made of two or more Pari<g ref="char:EOLhyphen"/>ſhes, whereof there be ſeveral Patrons, That the reſpective Patrons ſhall preſent by turns to the avoidances thereof, the Priority wherein ſhall be aſcerrained by the ſaid Tru<g ref="char:EOLhyphen"/>ſtees
+<pb n="650" facs="tcp:169235:7"/>
+in the aforeſaid Inſtrument. And in caſe either of the ſaid Livings ſo to be united as aforeſaid, exceed the other double or more in value, The Patron of the living of grea<g ref="char:EOLhyphen"/>teſt value ſhall preſent twice for the others once.</p>
+            <p>Provided, That in caſe it ſhall happen up<g ref="char:EOLhyphen"/>on any union to be made as aforeſaid, the ſaid Churches ſo to be united ſhall be full of In<g ref="char:EOLhyphen"/>cumbents, That the ſaid Union ſhall take place upon the next avoidance of either of the ſaid Churches, or ejection or removal of either of the ſaid Incumbents, and not before.</p>
+            <p>And it is hereby alſo Ordained, That not<g ref="char:EOLhyphen"/>withſtanding any ſuch Union to be made by virtue hereof, each of the Pariſhes ſo united ſhall continue diſtinct as to all Rates, Tax<g ref="char:EOLhyphen"/>es, Parochial Rites, Charges and Duties, and all other Priviledges, Liberties and re<g ref="char:EOLhyphen"/>ſpects whatſoever other then what is herein before mentioned and ſpecified.</p>
+            <p>Provided alſo, That where any perſon or perſons ſhall at their own charge advance and ſettle a competent maintenance for the Mini<g ref="char:EOLhyphen"/>ſter of any Pariſh Church to be approved ac<g ref="char:EOLhyphen"/>cording to the Ordinance for approbation of Publique Preachers, there ſhall be no Union for ſo long as ſuch maintenance ſhall indure of any ſuch Pariſh by virtue hereof.</p>
+            <p>And where any ſuch Union ſhall be made as aforeſaid, it ſhall be lawful to and for the ſaid Truſtees, or any five or more of them, to cauſe ſuch Church or Chappel as upon the ſaid Union ſhall be found uſeleſs, to be taken down, and the materials converted to a
+<pb n="651" facs="tcp:169235:7"/>
+joint ſtock for the repairing, inlarging, and accomodating of the Church, or Publique meeting-place which ſhall be continued for the Inhabitants of the ſaid Pariſhes, and not imployed, to any other uſe.</p>
+            <p>And it is further Ordained, That the ſaid Truſtees, or any five or more of them, ſhall have power to ſever and divide Pariſhes, where they ſhall conceive it needful, and fix ſuch maintenance, out of the profits of the ſaid Church ſo to be divided, as they ſhall think fit, to be approved of by the Parlament, and in the intervals of Parlament, by his Highneſs the Lord Protector and his Council.</p>
+            <p>And be it further Ordained by the Authori<g ref="char:EOLhyphen"/>ty aforeſaid, That in all caſes where the ſaid Truſtees ſhall think fit to unite two or more Pariſhes, ſo as aforeſaid, whereby the main<g ref="char:EOLhyphen"/>tenance ſhall ariſe to the yearly value of one hundred pounds or upwards, that in all ſuch Caſes, from and after the time wherein ſuch union and Conſolidation ſhall take effect, any Augmentation, granted to either of the places ſo united, or to either of the Miniſters there, ſhall from thenceforth ceaſe and be diſcharg<g ref="char:EOLhyphen"/>ed; And where the ſaid Truſtees ſhall find a<g ref="char:EOLhyphen"/>ny Augmentation granted unto any Country Pariſh, or to the Preacher there, which to<g ref="char:EOLhyphen"/>gether with the yearly profits and dues be<g ref="char:EOLhyphen"/>longing to the ſaid Church ſhall amount unto above one hundred pounds <hi>per annum,</hi> that the ſaid Truſtees ſhall have power to take off ſo much of the ſaid Augmentation, as together with the ſaid yearly profits and dues doth ex<g ref="char:EOLhyphen"/>ceed one hundred pounds <hi>per annum.</hi>
+            </p>
+            <p>And the ſaid Truſtees, or any five or more
+<pb n="652" facs="tcp:169235:8"/>
+of them have hereby power to review all aug<g ref="char:EOLhyphen"/>mentations already granted, or was full and ample manner as the late Committee for re<g ref="char:EOLhyphen"/>gulating the Univerſities were empowred to do; and with the approbation of his Highneſs and the Council to allow, diſallow or alter ſuch Augmentations, and to grant Augmen<g ref="char:EOLhyphen"/>tations and allowances out of the aforeſaid Revenue to ſuch other Places, or Publique Preachers, or Schoolmaſters in ſuch Places, as they ſhall think fit, with the approbation of his Highneſs, and the Council.</p>
+            <p>Provided, That this Ordinance or any thing therein contained ſhall not extend to a<g ref="char:EOLhyphen"/>bate, diminiſh or diſcharge any augmentation of a greater value than aforeſaid, a ready granted by his Highneſs, and his Council, without the conſent of his Highneſs and his Council firſt declared in that behalf; nor to re<g ref="char:EOLhyphen"/>ſtrain the ſaid Truſtees from granting Aug<g ref="char:EOLhyphen"/>mentations to Preachers in Cities and Mar<g ref="char:EOLhyphen"/>ket Towns where there ſhall be cauſe of a greater proportion than as aforeſaid.</p>
+            <p>And be it further Ordained by the Authori<g ref="char:EOLhyphen"/>ty aforeſaid, That they the ſaid Truſtees, or any five or more of them do, and they are here<g ref="char:EOLhyphen"/>by authorized, to take an exact Account of the yearly value of the whole Revenue hereby ſetled as aforeſaid, as alſo what Leaſes, are yet in being, and of how long continuance, and what improvement may be made thereof upon the expiration of the ſaid Leaſes reſpectively, as alſo what augmentations, or annual pay<g ref="char:EOLhyphen"/>ments or charges of any charitable pious, or other uſes the premiſſes or any of them ſtand charged with, and to what uſes, and to caſt
+<pb n="653" facs="tcp:169235:8"/>
+up and compute the ſame; and to take care that the ſame be mannaged, and the ſaid pro<g ref="char:EOLhyphen"/>fits, Rents and Revenues and all Arrears thereof, collected and gathered with leaſt charge, and with the beſt advantage and ſecu<g ref="char:EOLhyphen"/>rity, and the payments made with leaſt trouble to the perſons concerned; and to take an Ac<g ref="char:EOLhyphen"/>count how the Rents and Profits of the Pre<g ref="char:EOLhyphen"/>miſſes, veſted in the aforeſaid Truſtees by the aforeſaid Acts, have been imployed &amp; managed ſince the making of the ſaid Acts, or either of them; and alſo to call to an Account all Col<g ref="char:EOLhyphen"/>lectors, Receivors, and other Officers of the ſaid Revenue, and to ſend for all Books of ac<g ref="char:EOLhyphen"/>compts, and all other books and writings needful for the effecting hereof, and examine or cauſe to be examined their accounts, and the moneys in their hands, or in the hands of any Tenants or others from within the ſame ſhall appear due from time to time to be paid in; and to cauſe and exact Account to be made up yearly of all receipts and payments; and to appoint Officers needful; and to allow fitting ſalaries and allowances, and all inci<g ref="char:EOLhyphen"/>dent charges neceſſary for the former or future carrying on the ſaid ſervice; and to examine the ſalaries and allowances made by the Tru<g ref="char:EOLhyphen"/>ſtees, in the aforeſaid Acts named, unto their Clerks, Treſurers, Collectors, Receivers, or other Officers, and to leſſen or increaſe their number, and allow or diſallow the ſaid Salaries or allowances if they ſhall ſee cauſe; and to mannage the whole revenue ſo as may be for the beſt advantage of the ſaid ſervice.</p>
+            <p>And be it further Ordained by the Autho<g ref="char:EOLhyphen"/>rity aforeſaid, That there ſhall be paid un<g ref="char:EOLhyphen"/>to
+<pb n="654" facs="tcp:169235:9"/>
+each of the ſaid Truſtees for the ſaid ſer<g ref="char:EOLhyphen"/>vice one hundred pounds <hi>per annum</hi> out of the Revenues aforeſaid, to be paid half yearly by the Treaſurers by warrant from the ſaid Truſtees, or any ſix of them.</p>
+            <p>And be it further Ordained by the Authori<g ref="char:EOLhyphen"/>ty aforeſaid, That the ſaid Truſtees do with<g ref="char:EOLhyphen"/>in four moneths deliver into his highneſs Court of exchequer a particular of all the preſent Revenues aforeſaid, and what Leaſes are in being, and of how long continuance, and ſhall yearly exhibite under the hands of them, or any five of them, into the Court of exche<g ref="char:EOLhyphen"/>quer on the ſecond Thurſday of every eaſter Term, a perfect accompt of all the Receipts and payments out of the ſaid Revenue.</p>
+            <p>And laſtly be it Ordained, That as often as any four of the Truſtees beforenamed, or the Truſtees hereafter to be named ſhall by or be deceaſed, the ſix ſurviving Truſtees ſhall, within two moneths next atter by Feoffinent, or other good aſſurance, ſettle all and ſingular the premiſſes to the uſe of themſelves, and ſuch other perſons as the Lord Protector and his Council ſhall appoint upon the Truſts in and by this Ordinance expreſſed.</p>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <opener>
+               <dateline>
+                  <date>
+                     <hi>Saturday</hi> Septemb. 2. 1654.</date>
+               </dateline>
+            </opener>
+            <p>ORdered by His Highneſs the Lord Protector and his Council, That this Ordinance be forthwith Printed and Pub<g ref="char:EOLhyphen"/>liſhed.</p>
+            <closer>
+               <signed>
+                  <hi>Henry Scobell,</hi> Clerk of the Council.</signed>
+            </closer>
+         </div>
+      </back>
+   </text>
+</TEI>
